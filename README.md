@@ -4,14 +4,19 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Fundamentals
 
-* [Wikipedia, Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter)
 * [Steven McCanne, Van Jacobson, December 1992, The BSD Packet Filter: A New Architecture for User-level Packet Capture](https://www.tcpdump.org/papers/bpf-usenix93.pdf)
+* [Jonathan Corbet, April 2011, LWN.net, A JIT for packet filters](https://lwn.net/Articles/437981/)
+* [Jonathan Corbet, January 2012, LWN.net, Yet another new approach to seccomp](https://lwn.net/Articles/475043/)
+* [Alexei Starovoitov, 30 September 2013, LKML.org, extended BPF](https://lkml.org/lkml/2013/9/30/627)
+* [Jonathan Corbet, June 2021, LWN.net, Spectre revisits BPF](https://lwn.net/Articles/860597/)
 * [Alexei Starovoitov, August 2022, Kernel Recipes 2022 - The untold story of BPF](https://www.youtube.com/watch?v=DAvZH13725I)
 * [John Fastabend, December 2022, Isovalent, How the Hive Came to Bee - The History of eBPF](https://www.youtube.com/watch?v=sYxUOKi3Q00)
 * [Suchakra Sharma, IO Visor Documentation, BPF Internals - I](https://github.com/iovisor/bpf-docs/blob/master/bpf-internals-1.md)
 * [Suchakra Sharma, IO Visor Documentation, BPF Internals - II](https://github.com/iovisor/bpf-docs/blob/master/bpf-internals-2.md)
 * [Kernel Documentation, BPF Documentation](https://www.kernel.org/doc/html/latest/bpf/)
+* [Kernel Documentation, BPF Type Format (BTF)](https://www.kernel.org/doc/Documentation/bpf/btf.rst)
 * [Kernel Documentation, Linux Socket Filtering aka Berkeley Packet Filter (BPF)](https://www.kernel.org/doc/Documentation/networking/filter.txt)
+* [Kernel Documentation, BPF Design QA](https://www.kernel.org/doc/Documentation/bpf/bpf_design_QA.txt)
 * [Kernel Documentation, Using the Linux Kernel Tracepoints](https://www.kernel.org/doc/Documentation/trace/tracepoints.rst)
 * [Linux manual page, bpf(2)](https://man7.org/linux/man-pages/man2/bpf.2.html)
 * [Linux manual page, tc-bpf(8)](https://man7.org/linux/man-pages/man8/tc-bpf.8.html)
@@ -20,6 +25,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Cilium Documentation: eBPF Datapath](https://docs.cilium.io/en/v1.13/network/ebpf/#ebpf-datapath)
 * [IO Visor Documentation, Unofficial eBPF spec](https://github.com/iovisor/bpf-docs/blob/master/eBPF.md)
 * [IO Visor Documentation, BPF Features by Linux Kernel Version](https://github.com/iovisor/bcc/blob/master/docs/kernel-versions.md)
+* [Wikipedia, Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter)
 
 ## Arcana
 
@@ -57,6 +63,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Liz Rice, March 2023, O'Reilly, Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/)
 * [David Calavera, Lorenzo Fontana, September 2019, Linux Observability with BPF](https://www.oreilly.com/library/view/linux-observability-with/9781492050193/)
 * [Brendan Gregg, December 2019, Addison-Wesley Professional, BPF Performance Tools](https://www.oreilly.com/library/view/bpf-performance-tools/9780136588870/)
+* [Brendan Gregg, November 2020, Addison-Wesley, Systems Performance: Enterprise and the Cloud](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
 
 ## Compilers
 
@@ -90,6 +97,8 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Quentin Monnet, February 2020, Tools and mechanisms to debug BPF programs](https://archive.fosdem.org/2020/schedule/event/debugging_bpf/)
 * [Udi Rot, January 2023, Navigate your way to production bliss with Caretta](https://www.groundcover.com/blog/caretta/)
 * [Patrick Rogers, August 2023, BPFAgent: eBPF for Monitoring at DoorDash](https://doordash.engineering/2023/08/15/bpfagent-ebpf-for-monitoring-at-doordash/)
+* https://github.com/iovisor/bcc
+* https://github.com/iovisor/bpftrace
 
 ## Projects
 
@@ -122,6 +131,40 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 | [Isovalent](https://isovalent.com/)         | [Tetragon](https://github.com/cilium/tetragon/), [cilium/ebpf](https://github.com/cilium/ebpf)                       |
 | [Cycode](https://cycode.com/)               | [CI/MON](https://cycode.com/cimon-build-hardening/)                                                                  |
 | [Aqua Security](https://www.aquasec.com/)   | [Tracee](https://github.com/aquasecurity/tracee)                                                                     |
+
+## People
+
+* Alexei Starovoitov (Facebook, creator of extended BPF)
+* Daniel Borkmann (Isovalent)
+* David S. Miller (Red Hat)
+* Jakub Kicinski (Netronome)
+* Yonghong Song (Facebook)
+* Martin KaFai Lau (Facebook)
+* John Fastabend (Isovalent; formerly Intel)
+* Quentin Monnet (Netronome)
+* Jesper Dangaard Brouer (Red Hat)
+* Andrey Ignatov (Facebook)
+* Stanislav Fomichev (Google)
+* Brenden Blanco (VMware; formerly PLUMgrid)
+* Sasha Goldshtein (Google; formerly SELA)
+* Paul Chaignon (Orange)
+* Vicent Martí (github)
+* Mark Drayton (Facebook)
+* Allan McAleavy (Sky)
+* Gary Ching-Pang Lin (SUSE)
+* Alastair Robertson (Yellowbrick Data; formerly G-Research, Cisco)
+* Matheus Marchini (Netflix; formerly Shtima)
+* Willian Gasper (Shtima)
+* Dale Hamel (Shopify)
+* Augusto Mecking Caringi (Red Hat)
+* Dan Xu (Facebook)
+* Tobias Waldekranz
+* Chandler Carruth (Google)
+* Mathieu Desnoyers (EfficiOS)
+* Jonathan Corbet (LWN.net)
+* Jake Edge (LWN.net)
+* Eric Dumazet (BPF JIT)
+* Will Drewry (BPF filters for seccomp syscall policies)
 
 ## Uncategorized
 
