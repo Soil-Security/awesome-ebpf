@@ -114,6 +114,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb/)
 * [oracle/bpftune](https://github.com/oracle/bpftune/)
 * [cilium/tetragon](https://github.com/cilium/tetragon/)
+* [ddosify/alaz](https://github.com/ddosify/alaz)
 
 ## Security
 
