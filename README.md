@@ -174,3 +174,4 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Daniel Borkmann, September 2020, eBPF and Kubernetes: Little Helper Minions for Scaling Microservices](https://www.youtube.com/watch?v=99jUcLt3rSk)
 * [Jonathan Corbet, April 2021, LWN.net, Toward signed BPF programs](https://lwn.net/Articles/853489/)
 * [July 2022, Introduction to CAP_BPF](https://mdaverde.com/posts/cap-bpf/)
+* [Brendan Gregg, November 2017, USENiX, LISA17 - Linux Container Performance Analysis](https://www.youtube.com/watch?v=NYLXZ58EboM)
