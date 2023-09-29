@@ -180,3 +180,4 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Jonathan Corbet, April 2021, LWN.net, Toward signed BPF programs](https://lwn.net/Articles/853489/)
 * [July 2022, Introduction to CAP_BPF](https://mdaverde.com/posts/cap-bpf/)
 * [Brendan Gregg, November 2017, USENiX, LISA17 - Linux Container Performance Analysis](https://www.youtube.com/watch?v=NYLXZ58EboM)
+* [Wenbo Zhang, December 2020, PingCAP Engineering, Trace Linux System Calls with Least Impact on Performance in Production](https://www.pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance/)
