@@ -64,6 +64,8 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [David Calavera, Lorenzo Fontana, September 2019, Linux Observability with BPF](https://www.oreilly.com/library/view/linux-observability-with/9781492050193/)
 * [Brendan Gregg, December 2019, Addison-Wesley Professional, BPF Performance Tools](https://www.oreilly.com/library/view/bpf-performance-tools/9780136588870/)
 * [Brendan Gregg, November 2020, Addison-Wesley, Systems Performance: Enterprise and the Cloud](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
+* [Jed Salazar, Natalia Reka Ivanko, April 2022, O'Reilly, Security Observability with eBPF](https://www.oreilly.com/library/view/security-observability-with/9781492096719/)
+* [Liz Rice, April 2022, O'Reilly, What is eBPF?](https://www.oreilly.com/library/view/what-is-ebpf/9781492097266/)
 
 ## Compilers
 
