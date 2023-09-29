@@ -36,6 +36,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Matt Fleming, December 2017, LWN.net, A thorough introduction to eBPF](https://lwn.net/Articles/740157/)
 * [Matt Fleming, May 2018, LWN.net, Using user-space tracepoints with BPF](https://lwn.net/Articles/753601/)
 * [Jonathan Corbet, December 2018, LWN.net, Bounded loops in BPF programs](https://lwn.net/Articles/773605/)
+* [Jake Edge, September 2019, LWN.net, Kernel runtime security instrumentation](https://lwn.net/Articles/798157/)
 * [Nurkholish Halim, September 2022, Medium, A Deep Dive into eBPF: Writing an Efficient DNS Monitoring](https://medium.com/@nurkholish.halim/a-deep-dive-into-ebpf-writing-an-efficient-dns-monitoring-2c9dea92abdf)
 * [Adrian Ratiu, April 2019, Collabora, An eBPF overview, part 1: Introduction](https://www.collabora.com/news-and-blog/blog/2019/04/05/an-ebpf-overview-part-1-introduction/)
 * [Adrian Ratiu, April 2019, Collabora, An eBPF overview, part 2: Machine & bytecode](https://www.collabora.com/news-and-blog/blog/2019/04/15/an-ebpf-overview-part-2-machine-and-bytecode/)
