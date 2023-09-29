@@ -124,6 +124,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 * [Leonardo Di Donato, Elastic & KP Singh, Google, October 2021, LSM BPF Change Everything](https://www.youtube.com/watch?v=l8jZ-8uLdVU)
 * [Rex Guo, Junyuan Zeng, DEF CON 29, Phantom Attack: Evading System Call Monitoring](https://www.youtube.com/watch?v=yaAdM8pWKG8)
+* [Michael Zandi, December 2021, BlackBerry Blog, Reverse Engineering Ebpfkit Rootkit With BlackBerry's Enhanced IDA Processor Tool](https://blogs.blackberry.com/en/2021/12/reverse-engineering-ebpfkit-rootkit-with-blackberrys-free-ida-processor-tool)
 
 ## Companies
 
