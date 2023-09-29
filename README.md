@@ -115,6 +115,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [oracle/bpftune](https://github.com/oracle/bpftune/)
 * [cilium/tetragon](https://github.com/cilium/tetragon/)
 * [ddosify/alaz](https://github.com/ddosify/alaz)
+* [Anuj Srivastava, October 2022, Skyfall: eBPF agent for infrastructure observability](https://engineering.linkedin.com/blog/2022/skyfall--ebpf-agent-for-infrastructure-observability)
 
 ## Security
 
