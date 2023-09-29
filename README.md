@@ -73,6 +73,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Quentin Monnet, April 2020, eBPF assembly with LLVM](https://qmonnet.github.io/whirl-offload/2020/04/12/llvm-ebpf-asm/)
 * [Jonathan Corbet, September 2019, LWN.net, Compiling to BPF with GCC](https://lwn.net/Articles/800606/)
 * [Jake Edge, September 2020, LWN.net, BPF in GCC](https://lwn.net/Articles/831402/)
+* [Jiong Wang, September 2018, Netronome, Demystify eBPF JIT Compiler Webinar](https://www.youtube.com/watch?v=KDr033U2fF4)
 
 ## Code Examples
 
@@ -119,6 +120,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [cilium/tetragon](https://github.com/cilium/tetragon/)
 * [ddosify/alaz](https://github.com/ddosify/alaz)
 * [Anuj Srivastava, October 2022, Skyfall: eBPF agent for infrastructure observability](https://engineering.linkedin.com/blog/2022/skyfall--ebpf-agent-for-infrastructure-observability)
+* [Sumera Priyadarsini, July 2022, Polar Signals Blog, Introduction to Parca - Part 1](https://www.polarsignals.com/blog/posts/2022/07/12/introducing-parca-sequel/)
 
 ## Security
 
@@ -172,6 +174,10 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * Eric Dumazet (BPF JIT)
 * Will Drewry (BPF filters for seccomp syscall policies)
 
+## Stack Overflow
+
+* [full path for open / openat relative filenames](https://stackoverflow.com/questions/68240576/full-path-for-open-openat-relative-filenames)
+
 ## Uncategorized
 
 * [Thomas Graf, October 2016, Docker Distributed System Summit, Cilium - BPF & XDP for containers](https://www.youtube.com/watch?v=TnJF7ht3ZYc)
@@ -181,3 +187,5 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [July 2022, Introduction to CAP_BPF](https://mdaverde.com/posts/cap-bpf/)
 * [Brendan Gregg, November 2017, USENiX, LISA17 - Linux Container Performance Analysis](https://www.youtube.com/watch?v=NYLXZ58EboM)
 * [Wenbo Zhang, December 2020, PingCAP Engineering, Trace Linux System Calls with Least Impact on Performance in Production](https://www.pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance/)
+* [Marek Majkowski, March 2018, eBPF, Sockets, Hop Distance and manually writing eBPF assembly](https://blog.cloudflare.com/epbf_sockets_hop_distance/)
+* [Rubaiat Hossain, July 2023, Loft Blog, [Tutorial] How eBPF Improves Observability within Kubernetes](https://loft.sh/blog/tutorial-how-ebpf-improves-observability-within-kubernetes/)
