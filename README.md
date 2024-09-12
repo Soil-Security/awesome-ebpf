@@ -71,16 +71,16 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Compilers
 
-* [Quentin Monnet, April 2020, eBPF assembly with LLVM](https://qmonnet.github.io/whirl-offload/2020/04/12/llvm-ebpf-asm/)
-* [Jonathan Corbet, September 2019, LWN.net, Compiling to BPF with GCC](https://lwn.net/Articles/800606/)
-* [Jake Edge, September 2020, LWN.net, BPF in GCC](https://lwn.net/Articles/831402/)
+* [Monnet Q., April 2020, eBPF assembly with LLVM, Whirl Offload](https://qmonnet.github.io/whirl-offload/2020/04/12/llvm-ebpf-asm/)
+* [Corbet J., September 2019, Compiling to BPF with GCC, LWN.net](https://lwn.net/Articles/800606/)
+* [Edge J., September 2020, BPF in GCC, LWN.net](https://lwn.net/Articles/831402/)
 * [Jiong Wang, September 2018, Netronome, Demystify eBPF JIT Compiler Webinar](https://www.youtube.com/watch?v=KDr033U2fF4)
 
 ## Code Examples
 
 * [Soil-Security/bpf-c-template](https://github.com/Soil-Security/bpf-c-template/)
 * [Soil-Security/bpf-go-template](https://github.com/Soil-Security/bpf-go-template/)
-* [:lock: danielpacak/bpf-xdp-go-template](https://github.com/danielpacak/bpf-xdp-go-template/)
+* [Soil-Security/bpf-xdp-go-template](https://github.com/Soil-Security/bpf-xdp-go-template/)
 * [:lock: danielpacak/bpf-xdp-rust-template](https://github.com/danielpacak/bpf-xdp-rust-template/)
 * [:lock: danielpacak/bpf-tc-go-template](https://github.com/danielpacak/bpf-tc-go-template/)
 * [:lock: danielpacak/bpf-windows-template](https://github.com/danielpacak/bpf-windows-template/)
