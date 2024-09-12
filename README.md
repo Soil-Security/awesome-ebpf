@@ -29,6 +29,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Arcana
 
+* [Rice L., Fastabend J., September 2024, eBPF: Yes, it’s Turing Complete!, Isovalent Blog](https://isovalent.com/blog/post/ebpf-yes-its-turing-complete/)
 * [Sudhanshu Goswami, April 2005, LWN.net, An introduction to KProbes](https://lwn.net/Articles/132196/)
 * [Jonathan Corbet, May 2014, LWN.net, BPF: the universal in-kernel virtual machine](https://lwn.net/Articles/599755/)
 * [Jonathan Corbet, July 2014, LWN.net, Extending extended BPF](https://lwn.net/Articles/603983/)
@@ -61,13 +62,13 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Books
 
-* [Liz Rice, March 2023, O'Reilly, Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/)
-* [David Calavera, Lorenzo Fontana, September 2019, Linux Observability with BPF](https://www.oreilly.com/library/view/linux-observability-with/9781492050193/)
-* [Brendan Gregg, December 2019, Addison-Wesley Professional, BPF Performance Tools](https://www.oreilly.com/library/view/bpf-performance-tools/9780136588870/)
-* [Brendan Gregg, November 2020, Addison-Wesley, Systems Performance: Enterprise and the Cloud](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
-* [Loris Degioanni, Leonardo Grasso, August 2022, O'Reilly, Practical Cloud Native Security with Falco](https://www.oreilly.com/library/view/practical-cloud-native/9781098118563/)
-* [Jed Salazar, Natalia Reka Ivanko, April 2022, O'Reilly, Security Observability with eBPF](https://www.oreilly.com/library/view/security-observability-with/9781492096719/)
-* [Liz Rice, April 2022, O'Reilly, What is eBPF?](https://www.oreilly.com/library/view/what-is-ebpf/9781492097266/)
+* [Rice L., March 2023, O'Reilly, Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/)
+* [Calavera D., Fontana L., September 2019, Linux Observability with BPF](https://www.oreilly.com/library/view/linux-observability-with/9781492050193/)
+* [Gregg B., December 2019, Addison-Wesley Professional, BPF Performance Tools](https://www.oreilly.com/library/view/bpf-performance-tools/9780136588870/)
+* [Gregg B., November 2020, Addison-Wesley, Systems Performance: Enterprise and the Cloud](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
+* [Degioanni L., Grasso L., August 2022, O'Reilly, Practical Cloud Native Security with Falco](https://www.oreilly.com/library/view/practical-cloud-native/9781098118563/)
+* [Salazar J., Reka Ivanko N., April 2022, O'Reilly, Security Observability with eBPF](https://www.oreilly.com/library/view/security-observability-with/9781492096719/)
+* [Rice L., April 2022, O'Reilly, What is eBPF?](https://www.oreilly.com/library/view/what-is-ebpf/9781492097266/)
 
 ## Compilers
 
@@ -81,10 +82,12 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Soil-Security/bpf-c-template](https://github.com/Soil-Security/bpf-c-template/)
 * [Soil-Security/bpf-go-template](https://github.com/Soil-Security/bpf-go-template/)
 * [Soil-Security/bpf-xdp-go-template](https://github.com/Soil-Security/bpf-xdp-go-template/)
+* [Soil-Security/bpf-go-daemonset-template](https://github.com/Soil-Security/bpf-go-daemonset-template/)
 * [:lock: danielpacak/bpf-xdp-rust-template](https://github.com/danielpacak/bpf-xdp-rust-template/)
 * [:lock: danielpacak/bpf-tc-go-template](https://github.com/danielpacak/bpf-tc-go-template/)
 * [:lock: danielpacak/bpf-windows-template](https://github.com/danielpacak/bpf-windows-template/)
 * [libbpf-bootstrap: demo BPF applications](https://github.com/libbpf/libbpf-bootstrap/)
+* [isovalent/game-of-life](https://github.com/isovalent/game-of-life)
 * [David Calavera, Lorenzo Fontana, BPF Workshop](https://github.com/bpftools/bpf-workshop/)
 * [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial/)
 * [NLnetLabs/XDPeriments](https://github.com/NLnetLabs/XDPeriments/)
@@ -194,3 +197,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Wenbo Zhang, December 2020, PingCAP Engineering, Trace Linux System Calls with Least Impact on Performance in Production](https://www.pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance/)
 * [Marek Majkowski, March 2018, eBPF, Sockets, Hop Distance and manually writing eBPF assembly](https://blog.cloudflare.com/epbf_sockets_hop_distance/)
 * [Rubaiat Hossain, July 2023, Loft Blog, [Tutorial] How eBPF Improves Observability within Kubernetes](https://loft.sh/blog/tutorial-how-ebpf-improves-observability-within-kubernetes/)
+
+## See Also
+
+* https://github.com/zoidyzoidzoid/awesome-ebpf
