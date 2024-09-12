@@ -78,8 +78,8 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Code Examples
 
-* [:lock: danielpacak/bpf-c-template](https://github.com/danielpacak/bpf-c-template/)
-* [:lock: danielpacak/bpf-go-template](https://github.com/danielpacak/bpf-go-template/)
+* [Soil-Security/bpf-c-template](https://github.com/Soil-Security/bpf-c-template/)
+* [Soil-Security/bpf-go-template](https://github.com/Soil-Security/bpf-go-template/)
 * [:lock: danielpacak/bpf-xdp-go-template](https://github.com/danielpacak/bpf-xdp-go-template/)
 * [:lock: danielpacak/bpf-xdp-rust-template](https://github.com/danielpacak/bpf-xdp-rust-template/)
 * [:lock: danielpacak/bpf-tc-go-template](https://github.com/danielpacak/bpf-tc-go-template/)
@@ -118,6 +118,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [parca-dev/parca](https://github.com/parca-dev/parca)
 * [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb/)
 * [oracle/bpftune](https://github.com/oracle/bpftune/)
+* [oracle-samples/bysyscall](https://github.com/oracle-samples/bysyscall)
 * [cilium/tetragon](https://github.com/cilium/tetragon/)
 * [ddosify/alaz](https://github.com/ddosify/alaz)
 * [Anuj Srivastava, October 2022, Skyfall: eBPF agent for infrastructure observability](https://engineering.linkedin.com/blog/2022/skyfall--ebpf-agent-for-infrastructure-observability)
