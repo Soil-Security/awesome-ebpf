@@ -26,6 +26,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [IO Visor Documentation, Unofficial eBPF spec](https://github.com/iovisor/bpf-docs/blob/master/eBPF.md)
 * [IO Visor Documentation, BPF Features by Linux Kernel Version](https://github.com/iovisor/bcc/blob/master/docs/kernel-versions.md)
 * [Wikipedia, Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter)
+* [eBPF: What is it, Best Practices, and Use Cases, Groundcover](https://www.groundcover.com/ebpf)
 
 ## Arcana
 
@@ -96,7 +97,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Tools and Frameworks
 
-* [Quentin Monnet, September 2021, Features of bpftool: the thread of tips and examples to work with eBPF objects](https://qmonnet.github.io/whirl-offload/2021/09/23/bpftool-features-thread/)
+* [Monnet Q., September 2021, Features of bpftool: the thread of tips and examples to work with eBPF objects, Whirl Offload](https://qmonnet.github.io/whirl-offload/2021/09/23/bpftool-features-thread/)
 * [Michael Kerrisk, February 2020, Linux Security and Isolation APIs Seccomp](https://man7.org/training/download/secisol_seccomp_slides.pdf)
 * [edgebitio/edgebit-agent](https://github.com/edgebitio/edgebit-agent)
 * [:lock: danielpacak/lazybpftool](https://github.com/danielpacak/lazybpftool)
@@ -129,13 +130,19 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Anuj Srivastava, October 2022, Skyfall: eBPF agent for infrastructure observability](https://engineering.linkedin.com/blog/2022/skyfall--ebpf-agent-for-infrastructure-observability)
 * [Sumera Priyadarsini, July 2022, Polar Signals Blog, Introduction to Parca - Part 1](https://www.polarsignals.com/blog/posts/2022/07/12/introducing-parca-sequel/)
 
+## Kubernetes
+
+* [Calavera D., December 2018, Spy on your Kubernetes cluster with BPF, Medium](https://medium.com/@calavera/spy-on-your-kubernetes-cluster-with-bpf-b09032bd1cdc)
+
 ## Security
 
+* [June 2022, Bypassing eBPF-based Security Enforcement Tools, Form3 Blog](https://www.form3.tech/blog/engineering/bypassing-ebpf-tools)
 * [Leonardo Di Donato, Elastic & KP Singh, Google, October 2021, LSM BPF Change Everything](https://www.youtube.com/watch?v=l8jZ-8uLdVU)
 * [Rex Guo, Junyuan Zeng, DEF CON 29, Phantom Attack: Evading System Call Monitoring](https://www.youtube.com/watch?v=yaAdM8pWKG8)
 * [Michael Zandi, December 2021, BlackBerry Blog, Reverse Engineering Ebpfkit Rootkit With BlackBerry's Enhanced IDA Processor Tool](https://blogs.blackberry.com/en/2021/12/reverse-engineering-ebpfkit-rootkit-with-blackberrys-free-ida-processor-tool)
 * [Spyderbat, August 2023, How eBPF Can Help Identify Container Escapes](https://www.spyderbat.com/blog/how-ebpf-can-help-identify-container-escapes)
 * [Spyderbat, August 2023, Using eBPF to Resolve GuardDuty DNS Alerts](https://www.spyderbat.com/blog/using-ebpf-to-resolve-guardduty-dns-alerts)
+
 
 ## Companies
 
@@ -196,9 +203,10 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Corbet J., April 2021, LWN.net, Toward signed BPF programs](https://lwn.net/Articles/853489/)
 * [Landaverde M., July 2022, Introduction to CAP_BPF](https://mdaverde.com/posts/cap-bpf/)
 * [Gregg B., November 2017, USENiX, LISA17 - Linux Container Performance Analysis](https://www.youtube.com/watch?v=NYLXZ58EboM)
-* [Wenbo Zhang, December 2020, PingCAP Engineering, Trace Linux System Calls with Least Impact on Performance in Production](https://www.pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance/)
+* [Wenbo Zhang, December 2020, Trace Linux System Calls with Least Impact on Performance in Production, PingCAP Engineering](https://www.pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance/)
+* [Wenbo Zhang, December 2020, Tips and Tricks for Writing Linux BPF Applications with libbpf, PingCAP Engineering](https://www.pingcap.com/blog/tips-and-tricks-for-writing-linux-bpf-applications-with-libbpf/)
 * [Majkowski M., March 2018, eBPF, Sockets, Hop Distance and manually writing eBPF assembly](https://blog.cloudflare.com/epbf_sockets_hop_distance/)
-* [Rubaiat Hossain, July 2023, Loft Blog, [Tutorial] How eBPF Improves Observability within Kubernetes](https://loft.sh/blog/tutorial-how-ebpf-improves-observability-within-kubernetes/)
+* [Hossain R., July 2023, [Tutorial] How eBPF Improves Observability within Kubernetes, Loft Blog](https://loft.sh/blog/tutorial-how-ebpf-improves-observability-within-kubernetes/)
 
 ## See Also
 
