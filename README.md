@@ -27,6 +27,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [IO Visor Documentation, BPF Features by Linux Kernel Version](https://github.com/iovisor/bcc/blob/master/docs/kernel-versions.md)
 * [Wikipedia, Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter)
 * [eBPF: What is it, Best Practices, and Use Cases, Groundcover](https://www.groundcover.com/ebpf)
+* [Short C., August 2022, Intro to eBPF, chrisshort.net](https://chrisshort.net/intro-to-ebpf/)
 
 ## Arcana
 
