@@ -113,8 +113,11 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Projects
 
+* [microsoft/retina](https://github.com/microsoft/retina)
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor/)
 * [kubescape/kubescape](https://github.com/kubescape/kubescape/)
+* [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark)
+* [kubeshark/tracer](https://github.com/kubeshark/tracer)
 * [facebookincubator/dns](https://github.com/facebookincubator/dns/)
 * [groundcover-com/caretta](https://github.com/groundcover-com/caretta/)
 * [deepflowio/deepflow](https://github.com/deepflowio/deepflow/)
@@ -128,6 +131,8 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [cilium/tetragon](https://github.com/cilium/tetragon/)
 * [ddosify/alaz](https://github.com/ddosify/alaz)
 * [keisku/gmon](https://github.com/keisku/gmon)
+* [amiremohamadi/bpfsnake](https://github.com/amiremohamadi/bpfsnake)
+* [alegrey91/harpoon](https://github.com/alegrey91/harpoon)
 * [Anuj Srivastava, October 2022, Skyfall: eBPF agent for infrastructure observability](https://engineering.linkedin.com/blog/2022/skyfall--ebpf-agent-for-infrastructure-observability)
 * [Sumera Priyadarsini, July 2022, Polar Signals Blog, Introduction to Parca - Part 1](https://www.polarsignals.com/blog/posts/2022/07/12/introducing-parca-sequel/)
 
