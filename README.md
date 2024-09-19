@@ -113,6 +113,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Projects
 
+* [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler)
 * [microsoft/retina](https://github.com/microsoft/retina)
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor/)
 * [kubescape/kubescape](https://github.com/kubescape/kubescape/)
