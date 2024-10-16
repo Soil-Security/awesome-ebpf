@@ -28,6 +28,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Wikipedia, Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter)
 * [eBPF: What is it, Best Practices, and Use Cases, Groundcover](https://www.groundcover.com/ebpf)
 * [Short C., August 2022, Intro to eBPF, chrisshort.net](https://chrisshort.net/intro-to-ebpf/)
+* [Mulligan B., Borkmann D., April 2023, The Silent Platform Revolution: How eBPF Is Fundamentally Transforming Cloud-Native Platforms, InfoQ](https://www.infoq.com/articles/ebpf-cloud-native-platforms/)
 
 ## Arcana
 
@@ -150,7 +151,11 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Michael Zandi, December 2021, BlackBerry Blog, Reverse Engineering Ebpfkit Rootkit With BlackBerry's Enhanced IDA Processor Tool](https://blogs.blackberry.com/en/2021/12/reverse-engineering-ebpfkit-rootkit-with-blackberrys-free-ida-processor-tool)
 * [Spyderbat, August 2023, How eBPF Can Help Identify Container Escapes](https://www.spyderbat.com/blog/how-ebpf-can-help-identify-container-escapes)
 * [Spyderbat, August 2023, Using eBPF to Resolve GuardDuty DNS Alerts](https://www.spyderbat.com/blog/using-ebpf-to-resolve-guardduty-dns-alerts)
+* [KP Singh, Google, November 2020, Security Auditing and Enforcement using eBPF, eBPF Summit 2020](https://www.youtube.com/watch?v=XFJw37Vwzcc)
 
+## Windows
+
+* [Use eBPF-based sensor for Microsoft Defender for Endpoint on Linux, Microsoft Defender Documentation](https://learn.microsoft.com/en-us/defender-endpoint/linux-support-ebpf)
 
 ## Companies
 
