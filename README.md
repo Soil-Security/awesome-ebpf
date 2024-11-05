@@ -111,6 +111,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Patrick Rogers, August 2023, BPFAgent: eBPF for Monitoring at DoorDash](https://doordash.engineering/2023/08/15/bpfagent-ebpf-for-monitoring-at-doordash/)
 * https://github.com/iovisor/bcc
 * https://github.com/iovisor/bpftrace
+* https://github.com/google/buzzer
 
 ## Projects
 
@@ -153,6 +154,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Spyderbat, August 2023, How eBPF Can Help Identify Container Escapes](https://www.spyderbat.com/blog/how-ebpf-can-help-identify-container-escapes)
 * [Spyderbat, August 2023, Using eBPF to Resolve GuardDuty DNS Alerts](https://www.spyderbat.com/blog/using-ebpf-to-resolve-guardduty-dns-alerts)
 * [KP Singh, Google, November 2020, Security Auditing and Enforcement using eBPF, eBPF Summit 2020](https://www.youtube.com/watch?v=XFJw37Vwzcc)
+* [Juan José López Jaimez, Inge M., Aug 2024, A deep dive into CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability, Google Bug Hunters](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
 
 ## Windows
 
