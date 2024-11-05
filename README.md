@@ -114,6 +114,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Projects
 
+* [Gerring S., July 2024, eBPF Network Vershitifier, Scott's Ramblings](https://blog.scottgerring.com/ebpf-network-vershitifier/)
 * [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler)
 * [microsoft/retina](https://github.com/microsoft/retina)
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor/)
