@@ -95,7 +95,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [David Calavera, Lorenzo Fontana, BPF Workshop](https://github.com/bpftools/bpf-workshop/)
 * [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial/)
 * [NLnetLabs/XDPeriments](https://github.com/NLnetLabs/XDPeriments/)
-* [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial/)
+* https://eunomia.dev/
 
 ## Tools and Frameworks
 
@@ -155,6 +155,8 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Spyderbat, August 2023, Using eBPF to Resolve GuardDuty DNS Alerts](https://www.spyderbat.com/blog/using-ebpf-to-resolve-guardduty-dns-alerts)
 * [KP Singh, Google, November 2020, Security Auditing and Enforcement using eBPF, eBPF Summit 2020](https://www.youtube.com/watch?v=XFJw37Vwzcc)
 * [Juan José López Jaimez, Inge M., Aug 2024, A deep dive into CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability, Google Bug Hunters](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
+* [Kondah M., Jun 2024, Profiling Libraries With eBPF: Detecting Zero-Day Exploits and Backdoors, Deep Kondah](https://www.deep-kondah.com/ebpf-library-profiling/)
+* [The Risks of Using eBPF for Security, Vali Cyber](https://valicyber.com/resources/the-risks-of-using-ebpf-for-security/)
 
 ## Windows
 
