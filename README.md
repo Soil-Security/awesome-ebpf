@@ -157,6 +157,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Juan José López Jaimez, Inge M., Aug 2024, A deep dive into CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability, Google Bug Hunters](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
 * [Kondah M., Jun 2024, Profiling Libraries With eBPF: Detecting Zero-Day Exploits and Backdoors, Deep Kondah](https://www.deep-kondah.com/ebpf-library-profiling/)
 * [The Risks of Using eBPF for Security, Vali Cyber](https://valicyber.com/resources/the-risks-of-using-ebpf-for-security/)
+* [Gadient A., Nov 2024, EBPF-Based Security Solutions: Exploring Weaknesses And Mitigation Techniques., Forbes](https://www.forbes.com/councils/forbestechcouncil/2023/11/15/ebpf-based-security-solutions-exploring-weaknesses-and-mitigation-techniques/)
 
 ## Windows
 
