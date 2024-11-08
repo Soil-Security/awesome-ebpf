@@ -29,6 +29,8 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [eBPF: What is it, Best Practices, and Use Cases, Groundcover](https://www.groundcover.com/ebpf)
 * [Short C., August 2022, Intro to eBPF, chrisshort.net](https://chrisshort.net/intro-to-ebpf/)
 * [Mulligan B., Borkmann D., April 2023, The Silent Platform Revolution: How eBPF Is Fundamentally Transforming Cloud-Native Platforms, InfoQ](https://www.infoq.com/articles/ebpf-cloud-native-platforms/)
+* [Podobnik T. J., Sep 2024, Loops and Iterators in eBPF, eBPFChirp](https://ebpfchirp.substack.com/p/loops-and-iterators-in-ebpf)
+* [Isovalent eBPF Docs](https://docs.ebpf.io/)
 
 ## Arcana
 
