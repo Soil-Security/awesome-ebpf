@@ -142,6 +142,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace)
 * [Anuj Srivastava, October 2022, Skyfall: eBPF agent for infrastructure observability](https://engineering.linkedin.com/blog/2022/skyfall--ebpf-agent-for-infrastructure-observability)
 * [Sumera Priyadarsini, July 2022, Polar Signals Blog, Introduction to Parca - Part 1](https://www.polarsignals.com/blog/posts/2022/07/12/introducing-parca-sequel/)
+* [citronneur/pamspy](https://github.com/citronneur/pamspy)
 
 ## Kubernetes
 
