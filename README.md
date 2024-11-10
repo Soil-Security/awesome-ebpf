@@ -119,6 +119,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 * [Gerring S., July 2024, eBPF Network Vershitifier, Scott's Ramblings](https://blog.scottgerring.com/ebpf-network-vershitifier/)
 * [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler)
+* [coroot/coroot](https://github.com/coroot/coroot)
 * [microsoft/retina](https://github.com/microsoft/retina)
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor/)
 * [kubescape/kubescape](https://github.com/kubescape/kubescape/)
@@ -146,6 +147,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Kubernetes
 
+* [Podobnik T. J., Oct 2024, Securing Kubernetes Workloads using LSM-BPF, eBPFChirp](https://ebpfchirp.substack.com/p/securing-kubernetes-workloads-using)
 * [Calavera D., December 2018, Spy on your Kubernetes cluster with BPF, Medium](https://medium.com/@calavera/spy-on-your-kubernetes-cluster-with-bpf-b09032bd1cdc)
 
 ## Security
