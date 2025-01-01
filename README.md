@@ -4,13 +4,13 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Fundamentals
 
-* [McCanne S., Jacobson V., December 1992, The BSD Packet Filter: A New Architecture for User-level Packet Capture](https://www.tcpdump.org/papers/bpf-usenix93.pdf)
+* [McCanne S., Jacobson V., Dec 1992, The BSD Packet Filter: A New Architecture for User-level Packet Capture](https://www.tcpdump.org/papers/bpf-usenix93.pdf)
 * [Corbet J., June 2021, Spectre revisits BPF, LWN.net](https://lwn.net/Articles/860597/)
-* [Corbet J., April 2011, A JIT for packet filters, LWN.net](https://lwn.net/Articles/437981/)
-* [Corbet J., January 2012, Yet another new approach to seccomp, LWN.net](https://lwn.net/Articles/475043/)
-* [Starovoitov A., September 2013, extended BPF, LKML.org](https://lkml.org/lkml/2013/9/30/627)
-* [Starovoitov A., August 2022, Kernel Recipes 2022 - The untold story of BPF](https://www.youtube.com/watch?v=DAvZH13725I)
-* [Fastabend J., December 2022, Isovalent, How the Hive Came to Bee - The History of eBPF](https://www.youtube.com/watch?v=sYxUOKi3Q00)
+* [Corbet J., Apr 2011, A JIT for packet filters, LWN.net](https://lwn.net/Articles/437981/)
+* [Corbet J., Jan 2012, Yet another new approach to seccomp, LWN.net](https://lwn.net/Articles/475043/)
+* [Starovoitov A., Sept 2013, extended BPF, LKML.org](https://lkml.org/lkml/2013/9/30/627)
+* [Starovoitov A., Aug 2022, Kernel Recipes 2022 - The untold story of BPF](https://www.youtube.com/watch?v=DAvZH13725I)
+* [Fastabend J., Dec 2022, Isovalent, How the Hive Came to Bee - The History of eBPF](https://www.youtube.com/watch?v=sYxUOKi3Q00)
 * [Suchakra Sharma, IO Visor Documentation, BPF Internals - I](https://github.com/iovisor/bpf-docs/blob/master/bpf-internals-1.md)
 * [Suchakra Sharma, IO Visor Documentation, BPF Internals - II](https://github.com/iovisor/bpf-docs/blob/master/bpf-internals-2.md)
 * [Kernel Documentation, BPF Documentation](https://www.kernel.org/doc/html/latest/bpf/)
@@ -27,35 +27,35 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [IO Visor Documentation, BPF Features by Linux Kernel Version](https://github.com/iovisor/bcc/blob/master/docs/kernel-versions.md)
 * [Wikipedia, Berkeley Packet Filter](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter)
 * [eBPF: What is it, Best Practices, and Use Cases, Groundcover](https://www.groundcover.com/ebpf)
-* [Short C., August 2022, Intro to eBPF, chrisshort.net](https://chrisshort.net/intro-to-ebpf/)
-* [Mulligan B., Borkmann D., April 2023, The Silent Platform Revolution: How eBPF Is Fundamentally Transforming Cloud-Native Platforms, InfoQ](https://www.infoq.com/articles/ebpf-cloud-native-platforms/)
+* [Short C., Aug 2022, Intro to eBPF, chrisshort.net](https://chrisshort.net/intro-to-ebpf/)
+* [Mulligan B., Borkmann D., Apr 2023, The Silent Platform Revolution: How eBPF Is Fundamentally Transforming Cloud-Native Platforms, InfoQ](https://www.infoq.com/articles/ebpf-cloud-native-platforms/)
 * [Podobnik T. J., Sep 2024, Loops and Iterators in eBPF, eBPFChirp](https://ebpfchirp.substack.com/p/loops-and-iterators-in-ebpf)
 * [Isovalent eBPF Docs](https://docs.ebpf.io/)
 
-## Arcana
+## Advanced
 
-* [Rice L., Fastabend J., September 2024, eBPF: Yes, it’s Turing Complete!, Isovalent Blog](https://isovalent.com/blog/post/ebpf-yes-its-turing-complete/)
-* [Edge J., September 2019, Kernel runtime security instrumentation, LWN.net](https://lwn.net/Articles/798157/)
+* [Rice L., Fastabend J., Sept 2024, eBPF: Yes, it’s Turing Complete!, Isovalent Blog](https://isovalent.com/blog/post/ebpf-yes-its-turing-complete/)
+* [Edge J., Sept 2019, Kernel runtime security instrumentation, LWN.net](https://lwn.net/Articles/798157/)
 * [Fleming M., May 2018, Using user-space tracepoints with BPF, LWN.net](https://lwn.net/Articles/753601/)
-* [Fleming M., December 2017, A thorough introduction to eBPF, LWN.net](https://lwn.net/Articles/740157/)
-* [Corbet J., December 2018, Bounded loops in BPF programs, LWN.net](https://lwn.net/Articles/773605/)
+* [Fleming M., Dec 2017, A thorough introduction to eBPF, LWN.net](https://lwn.net/Articles/740157/)
+* [Corbet J., Dec 2018, Bounded loops in BPF programs, LWN.net](https://lwn.net/Articles/773605/)
 * [Corbet J., May 2014, BPF: the universal in-kernel virtual machine, LWN.net](https://lwn.net/Articles/599755/)
-* [Corbet J., July 2014, Extending extended BPF, LWN.net](https://lwn.net/Articles/603983/)
-* [Corbet J., September 2014, The BPF system call API, version 14, LWN.net](https://lwn.net/Articles/612878/)
-* [Goswami S., April 2005, An introduction to KProbes, LWN.net](https://lwn.net/Articles/132196/)
-* [Nurkholish Halim, September 2022, Medium, A Deep Dive into eBPF: Writing an Efficient DNS Monitoring](https://medium.com/@nurkholish.halim/a-deep-dive-into-ebpf-writing-an-efficient-dns-monitoring-2c9dea92abdf)
-* [Adrian Ratiu, April 2019, Collabora, An eBPF overview, part 1: Introduction](https://www.collabora.com/news-and-blog/blog/2019/04/05/an-ebpf-overview-part-1-introduction/)
-* [Adrian Ratiu, April 2019, Collabora, An eBPF overview, part 2: Machine & bytecode](https://www.collabora.com/news-and-blog/blog/2019/04/15/an-ebpf-overview-part-2-machine-and-bytecode/)
+* [Corbet J., Jul 2014, Extending extended BPF, LWN.net](https://lwn.net/Articles/603983/)
+* [Corbet J., Sept 2014, The BPF system call API, version 14, LWN.net](https://lwn.net/Articles/612878/)
+* [Goswami S., Apr 2005, An introduction to KProbes, LWN.net](https://lwn.net/Articles/132196/)
+* [Nurkholish Halim, Sept 2022, Medium, A Deep Dive into eBPF: Writing an Efficient DNS Monitoring](https://medium.com/@nurkholish.halim/a-deep-dive-into-ebpf-writing-an-efficient-dns-monitoring-2c9dea92abdf)
+* [Adrian Ratiu, Apr 2019, Collabora, An eBPF overview, part 1: Introduction](https://www.collabora.com/news-and-blog/blog/2019/04/05/an-ebpf-overview-part-1-introduction/)
+* [Adrian Ratiu, Apr 2019, Collabora, An eBPF overview, part 2: Machine & bytecode](https://www.collabora.com/news-and-blog/blog/2019/04/15/an-ebpf-overview-part-2-machine-and-bytecode/)
 * [Securing Linux with a Faster and Scalable IPtables](https://ccronline.sigcomm.org/wp-content/uploads/2019/07/acmdl19-304.pdf)
-* [Luuk Hendriks, July 2020, RIPE Labs, Journeying into XDP: Part 0](https://labs.ripe.net/author/luuk_hendriks/journeying-into-xdp-part-0/)
-* [Tom Carpay, October 2020, RIPE Labs, Journeying into XDP Part 1: Augmenting DNS](https://labs.ripe.net/author/tom_carpay/journeying-into-xdp-part-1-augmenting-dns/)
-* [Luuk Hendriks, July 2020, RIPE Labs, Journeying into XDP Part 2: XDPerimenting with DNS Telemetry](https://labs.ripe.net/author/luuk_hendriks/journeying-into-xdp-part-2-xdperimenting-with-dns-telemetry/)
+* [Luuk Hendriks, Jul 2020, RIPE Labs, Journeying into XDP: Part 0](https://labs.ripe.net/author/luuk_hendriks/journeying-into-xdp-part-0/)
+* [Carpay T., Oct 2020, RIPE Labs, Journeying into XDP Part 1: Augmenting DNS](https://labs.ripe.net/author/tom_carpay/journeying-into-xdp-part-1-augmenting-dns/)
+* [Luuk Hendriks, Jul 2020, RIPE Labs, Journeying into XDP Part 2: XDPerimenting with DNS Telemetry](https://labs.ripe.net/author/luuk_hendriks/journeying-into-xdp-part-2-xdperimenting-with-dns-telemetry/)
 * [Sanjeev Rampal, Donald Hunter, May 2023, eBPF 201: Supercharging Your eBPF Dev Process for Cloud Native Apps](https://www.youtube.com/watch?v=9vUJhbqf4eo)
 
 ## XDP
 
-* [October 2018, Load XDP programs using the ip (iproute2) command](https://fntlnz.wtf/post/xdp-ip-iproute/)
-* [Kong Blog, October 2022, Writing an eBPF/XDP load-balancer in Rust](https://konghq.com/blog/engineering/writing-an-ebpf-xdp-load-balancer-in-rust)
+* [Oct 2018, Load XDP programs using the ip (iproute2) command](https://fntlnz.wtf/post/xdp-ip-iproute/)
+* [Oct 2022, Writing an eBPF/XDP load-balancer in Rust, Kong Blog](https://konghq.com/blog/engineering/writing-an-ebpf-xdp-load-balancer-in-rust)
 
 ## Computer Science
 
@@ -67,20 +67,20 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Books
 
-* [Rice L., March 2023, O'Reilly, Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/)
-* [Calavera D., Fontana L., September 2019, Linux Observability with BPF](https://www.oreilly.com/library/view/linux-observability-with/9781492050193/)
-* [Gregg B., December 2019, Addison-Wesley Professional, BPF Performance Tools](https://www.oreilly.com/library/view/bpf-performance-tools/9780136588870/)
-* [Gregg B., November 2020, Addison-Wesley, Systems Performance: Enterprise and the Cloud](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
-* [Degioanni L., Grasso L., August 2022, O'Reilly, Practical Cloud Native Security with Falco](https://www.oreilly.com/library/view/practical-cloud-native/9781098118563/)
-* [Salazar J., Reka Ivanko N., April 2022, O'Reilly, Security Observability with eBPF](https://www.oreilly.com/library/view/security-observability-with/9781492096719/)
-* [Rice L., April 2022, O'Reilly, What is eBPF?](https://www.oreilly.com/library/view/what-is-ebpf/9781492097266/)
+* [Rice L., Mar 2023, O'Reilly, Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/)
+* [Calavera D., Fontana L., Sept 2019, Linux Observability with BPF](https://www.oreilly.com/library/view/linux-observability-with/9781492050193/)
+* [Gregg B., Dec 2019, Addison-Wesley Professional, BPF Performance Tools](https://www.oreilly.com/library/view/bpf-performance-tools/9780136588870/)
+* [Gregg B., Nov 2020, Addison-Wesley, Systems Performance: Enterprise and the Cloud](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
+* [Degioanni L., Grasso L., Aug 2022, O'Reilly, Practical Cloud Native Security with Falco](https://www.oreilly.com/library/view/practical-cloud-native/9781098118563/)
+* [Salazar J., Reka Ivanko N., Apr 2022, O'Reilly, Security Observability with eBPF](https://www.oreilly.com/library/view/security-observability-with/9781492096719/)
+* [Rice L., Apr 2022, O'Reilly, What is eBPF?](https://www.oreilly.com/library/view/what-is-ebpf/9781492097266/)
 
 ## Compilers
 
-* [Monnet Q., April 2020, eBPF assembly with LLVM, Whirl Offload](https://qmonnet.github.io/whirl-offload/2020/04/12/llvm-ebpf-asm/)
-* [Corbet J., September 2019, Compiling to BPF with GCC, LWN.net](https://lwn.net/Articles/800606/)
-* [Edge J., September 2020, BPF in GCC, LWN.net](https://lwn.net/Articles/831402/)
-* [Jiong Wang, September 2018, Netronome, Demystify eBPF JIT Compiler Webinar](https://www.youtube.com/watch?v=KDr033U2fF4)
+* [Monnet Q., Apr 2020, eBPF assembly with LLVM, Whirl Offload](https://qmonnet.github.io/whirl-offload/2020/04/12/llvm-ebpf-asm/)
+* [Corbet J., Sept 2019, Compiling to BPF with GCC, LWN.net](https://lwn.net/Articles/800606/)
+* [Edge J., Sept 2020, BPF in GCC, LWN.net](https://lwn.net/Articles/831402/)
+* [Jiong Wang, Sept 2018, Netronome, Demystify eBPF JIT Compiler Webinar](https://www.youtube.com/watch?v=KDr033U2fF4)
 
 ## Code Examples
 
@@ -101,23 +101,23 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Tools and Frameworks
 
-* [Monnet Q., September 2021, Features of bpftool: the thread of tips and examples to work with eBPF objects, Whirl Offload](https://qmonnet.github.io/whirl-offload/2021/09/23/bpftool-features-thread/)
-* [Michael Kerrisk, February 2020, Linux Security and Isolation APIs Seccomp](https://man7.org/training/download/secisol_seccomp_slides.pdf)
+* [Monnet Q., Sept 2021, Features of bpftool: the thread of tips and examples to work with eBPF objects, Whirl Offload](https://qmonnet.github.io/whirl-offload/2021/09/23/bpftool-features-thread/)
+* [Kerrisk M., Feb 2020, Linux Security and Isolation APIs Seccomp](https://man7.org/training/download/secisol_seccomp_slides.pdf)
 * [edgebitio/edgebit-agent](https://github.com/edgebitio/edgebit-agent)
 * [:lock: danielpacak/lazybpftool](https://github.com/danielpacak/lazybpftool)
 * [bpfd-dev/bpfd](https://github.com/bpfd-dev/bpfd)
 * [rust-bpf/rust-bcc](https://github.com/rust-bpf/rust-bcc)
-* [October 2021, eCHO episode 25: eBPF, Rust and Aya](https://www.youtube.com/watch?v=TQ0ou-eFLAk)
-* [Quentin Monnet, February 2020, Tools and mechanisms to debug BPF programs](https://archive.fosdem.org/2020/schedule/event/debugging_bpf/)
-* [Udi Rot, January 2023, Navigate your way to production bliss with Caretta](https://www.groundcover.com/blog/caretta/)
-* [Patrick Rogers, August 2023, BPFAgent: eBPF for Monitoring at DoorDash](https://doordash.engineering/2023/08/15/bpfagent-ebpf-for-monitoring-at-doordash/)
+* [Oct 2021, eCHO episode 25: eBPF, Rust and Aya](https://www.youtube.com/watch?v=TQ0ou-eFLAk)
+* [Monnet Q., Feb 2020, Tools and mechanisms to debug BPF programs](https://archive.fosdem.org/2020/schedule/event/debugging_bpf/)
+* [Udi Rot, Jan 2023, Navigate your way to production bliss with Caretta](https://www.groundcover.com/blog/caretta/)
+* [Rogers P., Aug 2023, BPFAgent: eBPF for Monitoring at DoorDash](https://doordash.engineering/2023/08/15/bpfagent-ebpf-for-monitoring-at-doordash/)
 * https://github.com/iovisor/bcc
 * https://github.com/iovisor/bpftrace
 * https://github.com/google/buzzer
 
 ## Projects
 
-* [Gerring S., July 2024, eBPF Network Vershitifier, Scott's Ramblings](https://blog.scottgerring.com/ebpf-network-vershitifier/)
+* [Gerring S., Jul 2024, eBPF Network Vershitifier, Scott's Ramblings](https://blog.scottgerring.com/ebpf-network-vershitifier/)
 * [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler)
 * [coroot/coroot](https://github.com/coroot/coroot)
 * [microsoft/retina](https://github.com/microsoft/retina)
@@ -141,24 +141,25 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [amiremohamadi/bpfsnake](https://github.com/amiremohamadi/bpfsnake)
 * [alegrey91/harpoon](https://github.com/alegrey91/harpoon)
 * [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace)
-* [Anuj Srivastava, October 2022, Skyfall: eBPF agent for infrastructure observability](https://engineering.linkedin.com/blog/2022/skyfall--ebpf-agent-for-infrastructure-observability)
-* [Sumera Priyadarsini, July 2022, Polar Signals Blog, Introduction to Parca - Part 1](https://www.polarsignals.com/blog/posts/2022/07/12/introducing-parca-sequel/)
+* [Anuj Srivastava, Oct 2022, Skyfall: eBPF agent for infrastructure observability](https://engineering.linkedin.com/blog/2022/skyfall--ebpf-agent-for-infrastructure-observability)
+* [Sumera Priyadarsini, Jul 2022, Polar Signals Blog, Introduction to Parca - Part 1](https://www.polarsignals.com/blog/posts/2022/07/12/introducing-parca-sequel/)
 * [citronneur/pamspy](https://github.com/citronneur/pamspy)
 
 ## Kubernetes
 
 * [Podobnik T. J., Oct 2024, Securing Kubernetes Workloads using LSM-BPF, eBPFChirp](https://ebpfchirp.substack.com/p/securing-kubernetes-workloads-using)
-* [Calavera D., December 2018, Spy on your Kubernetes cluster with BPF, Medium](https://medium.com/@calavera/spy-on-your-kubernetes-cluster-with-bpf-b09032bd1cdc)
+* [Calavera D., Dec 2018, Spy on your Kubernetes cluster with BPF, Medium](https://medium.com/@calavera/spy-on-your-kubernetes-cluster-with-bpf-b09032bd1cdc)
 
 ## Security
 
-* [June 2022, Bypassing eBPF-based Security Enforcement Tools, Form3 Blog](https://www.form3.tech/blog/engineering/bypassing-ebpf-tools)
-* [Leonardo Di Donato, Elastic & KP Singh, Google, October 2021, LSM BPF Change Everything](https://www.youtube.com/watch?v=l8jZ-8uLdVU)
+* [Dinaburg A., Sept 2023, Pitfalls of relying on eBPF for security monitoring (and some solutions), Trail of Bits Blog](https://blog.trailofbits.com/2023/09/25/pitfalls-of-relying-on-ebpf-for-security-monitoring-and-some-solutions/)
+* [Jun 2022, Bypassing eBPF-based Security Enforcement Tools, Form3 Blog](https://www.form3.tech/blog/engineering/bypassing-ebpf-tools)
+* [Leonardo Di Donato, Elastic & KP Singh, Google, Oct 2021, LSM BPF Change Everything](https://www.youtube.com/watch?v=l8jZ-8uLdVU)
 * [Rex Guo, Junyuan Zeng, DEF CON 29, Phantom Attack: Evading System Call Monitoring](https://www.youtube.com/watch?v=yaAdM8pWKG8)
-* [Michael Zandi, December 2021, BlackBerry Blog, Reverse Engineering Ebpfkit Rootkit With BlackBerry's Enhanced IDA Processor Tool](https://blogs.blackberry.com/en/2021/12/reverse-engineering-ebpfkit-rootkit-with-blackberrys-free-ida-processor-tool)
-* [Spyderbat, August 2023, How eBPF Can Help Identify Container Escapes](https://www.spyderbat.com/blog/how-ebpf-can-help-identify-container-escapes)
-* [Spyderbat, August 2023, Using eBPF to Resolve GuardDuty DNS Alerts](https://www.spyderbat.com/blog/using-ebpf-to-resolve-guardduty-dns-alerts)
-* [KP Singh, Google, November 2020, Security Auditing and Enforcement using eBPF, eBPF Summit 2020](https://www.youtube.com/watch?v=XFJw37Vwzcc)
+* [Zandi M., Dec 2021, BlackBerry Blog, Reverse Engineering Ebpfkit Rootkit With BlackBerry's Enhanced IDA Processor Tool](https://blogs.blackberry.com/en/2021/12/reverse-engineering-ebpfkit-rootkit-with-blackberrys-free-ida-processor-tool)
+* [Spyderbat, Aug2023, How eBPF Can Help Identify Container Escapes](https://www.spyderbat.com/blog/how-ebpf-can-help-identify-container-escapes)
+* [Spyderbat, Aug 2023, Using eBPF to Resolve GuardDuty DNS Alerts](https://www.spyderbat.com/blog/using-ebpf-to-resolve-guardduty-dns-alerts)
+* [KP Singh, Google, Nov 2020, Security Auditing and Enforcement using eBPF, eBPF Summit 2020](https://www.youtube.com/watch?v=XFJw37Vwzcc)
 * [Juan José López Jaimez, Inge M., Aug 2024, A deep dive into CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability, Google Bug Hunters](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
 * [Kondah M., Jun 2024, Profiling Libraries With eBPF: Detecting Zero-Day Exploits and Backdoors, Deep Kondah](https://www.deep-kondah.com/ebpf-library-profiling/)
 * [The Risks of Using eBPF for Security, Vali Cyber](https://valicyber.com/resources/the-risks-of-using-ebpf-for-security/)
@@ -221,16 +222,16 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Uncategorized
 
-* [Graf T., October 2016, Docker Distributed System Summit, Cilium - BPF & XDP for containers](https://www.youtube.com/watch?v=TnJF7ht3ZYc)
-* [Graf T., April 2017, Cilium: Network and Application Security with BPF and XDP](https://www.youtube.com/watch?v=ilKlmTDdFgk)
-* [Borkmann D., September 2020, eBPF and Kubernetes: Little Helper Minions for Scaling Microservices](https://www.youtube.com/watch?v=99jUcLt3rSk)
-* [Corbet J., April 2021, LWN.net, Toward signed BPF programs](https://lwn.net/Articles/853489/)
-* [Landaverde M., July 2022, Introduction to CAP_BPF](https://mdaverde.com/posts/cap-bpf/)
-* [Gregg B., November 2017, USENiX, LISA17 - Linux Container Performance Analysis](https://www.youtube.com/watch?v=NYLXZ58EboM)
-* [Wenbo Zhang, December 2020, Trace Linux System Calls with Least Impact on Performance in Production, PingCAP Engineering](https://www.pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance/)
-* [Wenbo Zhang, December 2020, Tips and Tricks for Writing Linux BPF Applications with libbpf, PingCAP Engineering](https://www.pingcap.com/blog/tips-and-tricks-for-writing-linux-bpf-applications-with-libbpf/)
-* [Majkowski M., March 2018, eBPF, Sockets, Hop Distance and manually writing eBPF assembly](https://blog.cloudflare.com/epbf_sockets_hop_distance/)
-* [Hossain R., July 2023, [Tutorial] How eBPF Improves Observability within Kubernetes, Loft Blog](https://loft.sh/blog/tutorial-how-ebpf-improves-observability-within-kubernetes/)
+* [Graf T., Oct 2016, Docker Distributed System Summit, Cilium - BPF & XDP for containers](https://www.youtube.com/watch?v=TnJF7ht3ZYc)
+* [Graf T., Apr 2017, Cilium: Network and Application Security with BPF and XDP](https://www.youtube.com/watch?v=ilKlmTDdFgk)
+* [Borkmann D., Sept 2020, eBPF and Kubernetes: Little Helper Minions for Scaling Microservices](https://www.youtube.com/watch?v=99jUcLt3rSk)
+* [Corbet J., Apr 2021, LWN.net, Toward signed BPF programs](https://lwn.net/Articles/853489/)
+* [Landaverde M., Jul 2022, Introduction to CAP_BPF](https://mdaverde.com/posts/cap-bpf/)
+* [Gregg B., Nov 2017, USENiX, LISA17 - Linux Container Performance Analysis](https://www.youtube.com/watch?v=NYLXZ58EboM)
+* [Wenbo Zhang, Dec 2020, Trace Linux System Calls with Least Impact on Performance in Production, PingCAP Engineering](https://www.pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance/)
+* [Wenbo Zhang, Dec 2020, Tips and Tricks for Writing Linux BPF Applications with libbpf, PingCAP Engineering](https://www.pingcap.com/blog/tips-and-tricks-for-writing-linux-bpf-applications-with-libbpf/)
+* [Majkowski M., Mar 2018, eBPF, Sockets, Hop Distance and manually writing eBPF assembly](https://blog.cloudflare.com/epbf_sockets_hop_distance/)
+* [Hossain R., Jul 2023, [Tutorial] How eBPF Improves Observability within Kubernetes, Loft Blog](https://loft.sh/blog/tutorial-how-ebpf-improves-observability-within-kubernetes/)
 
 ## See Also
 
