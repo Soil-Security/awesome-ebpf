@@ -171,6 +171,8 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Companies
 
+The list of companies that claim publicly to use eBPF technology in their products.
+
 | Name                                        | Description                                                                                                          |
 | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | [Spyderbat](https://www.spyderbat.com/)     |                                                                                                                      |
@@ -191,7 +193,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * Yonghong Song (Facebook)
 * Martin KaFai Lau (Facebook)
 * John Fastabend (Isovalent; formerly Intel)
-* Quentin Monnet (Netronome)
+* Quentin Monnet (Isovalent; formerly Netronome)
 * Jesper Dangaard Brouer (Red Hat)
 * Andrey Ignatov (Facebook)
 * Stanislav Fomichev (Google)
@@ -222,6 +224,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Uncategorized
 
+* [Rice L., Apr 2024, Unleashing the Kernel with eBPF, QCon London](https://www.infoq.com/presentations/ebpf-kernel/)
 * [Graf T., Oct 2016, Docker Distributed System Summit, Cilium - BPF & XDP for containers](https://www.youtube.com/watch?v=TnJF7ht3ZYc)
 * [Graf T., Apr 2017, Cilium: Network and Application Security with BPF and XDP](https://www.youtube.com/watch?v=ilKlmTDdFgk)
 * [Borkmann D., Sept 2020, eBPF and Kubernetes: Little Helper Minions for Scaling Microservices](https://www.youtube.com/watch?v=99jUcLt3rSk)
