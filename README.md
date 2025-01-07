@@ -34,6 +34,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Advanced
 
+* [Chaignon P., Jan 2025, eBPF Research Papers, Paul Chaignon's blog](https://pchaigno.github.io/bpf/2025/01/07/research-papers-bpf.html)
 * [Rice L., Fastabend J., Sept 2024, eBPF: Yes, it’s Turing Complete!, Isovalent Blog](https://isovalent.com/blog/post/ebpf-yes-its-turing-complete/)
 * [Edge J., Sept 2019, Kernel runtime security instrumentation, LWN.net](https://lwn.net/Articles/798157/)
 * [Fleming M., May 2018, Using user-space tracepoints with BPF, LWN.net](https://lwn.net/Articles/753601/)
@@ -44,18 +45,18 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Corbet J., Sept 2014, The BPF system call API, version 14, LWN.net](https://lwn.net/Articles/612878/)
 * [Goswami S., Apr 2005, An introduction to KProbes, LWN.net](https://lwn.net/Articles/132196/)
 * [Nurkholish Halim, Sept 2022, Medium, A Deep Dive into eBPF: Writing an Efficient DNS Monitoring](https://medium.com/@nurkholish.halim/a-deep-dive-into-ebpf-writing-an-efficient-dns-monitoring-2c9dea92abdf)
-* [Adrian Ratiu, Apr 2019, Collabora, An eBPF overview, part 1: Introduction](https://www.collabora.com/news-and-blog/blog/2019/04/05/an-ebpf-overview-part-1-introduction/)
-* [Adrian Ratiu, Apr 2019, Collabora, An eBPF overview, part 2: Machine & bytecode](https://www.collabora.com/news-and-blog/blog/2019/04/15/an-ebpf-overview-part-2-machine-and-bytecode/)
+* [Ratiu A., Apr 2019, Collabora, An eBPF overview, part 1: Introduction](https://www.collabora.com/news-and-blog/blog/2019/04/05/an-ebpf-overview-part-1-introduction/)
+* [Ratiu A., Apr 2019, Collabora, An eBPF overview, part 2: Machine & bytecode](https://www.collabora.com/news-and-blog/blog/2019/04/15/an-ebpf-overview-part-2-machine-and-bytecode/)
 * [Securing Linux with a Faster and Scalable IPtables](https://ccronline.sigcomm.org/wp-content/uploads/2019/07/acmdl19-304.pdf)
-* [Luuk Hendriks, Jul 2020, RIPE Labs, Journeying into XDP: Part 0](https://labs.ripe.net/author/luuk_hendriks/journeying-into-xdp-part-0/)
-* [Carpay T., Oct 2020, RIPE Labs, Journeying into XDP Part 1: Augmenting DNS](https://labs.ripe.net/author/tom_carpay/journeying-into-xdp-part-1-augmenting-dns/)
-* [Luuk Hendriks, Jul 2020, RIPE Labs, Journeying into XDP Part 2: XDPerimenting with DNS Telemetry](https://labs.ripe.net/author/luuk_hendriks/journeying-into-xdp-part-2-xdperimenting-with-dns-telemetry/)
 * [Sanjeev Rampal, Donald Hunter, May 2023, eBPF 201: Supercharging Your eBPF Dev Process for Cloud Native Apps](https://www.youtube.com/watch?v=9vUJhbqf4eo)
 
 ## XDP
 
 * [Oct 2018, Load XDP programs using the ip (iproute2) command](https://fntlnz.wtf/post/xdp-ip-iproute/)
 * [Oct 2022, Writing an eBPF/XDP load-balancer in Rust, Kong Blog](https://konghq.com/blog/engineering/writing-an-ebpf-xdp-load-balancer-in-rust)
+* [Hendriks L., Jul 2020, RIPE Labs, Journeying into XDP: Part 0, RIPE Labs](https://labs.ripe.net/author/luuk_hendriks/journeying-into-xdp-part-0/)
+* [Carpay T., Oct 2020, RIPE Labs, Journeying into XDP Part 1: Augmenting DNS, RIPE Labs](https://labs.ripe.net/author/tom_carpay/journeying-into-xdp-part-1-augmenting-dns/)
+* [Hendriks L., Jul 2020, RIPE Labs, Journeying into XDP Part 2: XDPerimenting with DNS Telemetry, RIPE Labs](https://labs.ripe.net/author/luuk_hendriks/journeying-into-xdp-part-2-xdperimenting-with-dns-telemetry/)
 
 ## Computer Science
 
@@ -68,12 +69,12 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 ## Books
 
 * [Rice L., Mar 2023, O'Reilly, Learning eBPF](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/)
-* [Calavera D., Fontana L., Sept 2019, Linux Observability with BPF](https://www.oreilly.com/library/view/linux-observability-with/9781492050193/)
-* [Gregg B., Dec 2019, Addison-Wesley Professional, BPF Performance Tools](https://www.oreilly.com/library/view/bpf-performance-tools/9780136588870/)
+* [Rice L., Apr 2022, O'Reilly, What is eBPF?](https://www.oreilly.com/library/view/what-is-ebpf/9781492097266/)
+* [Calavera D., Fontana L., Sept 2019, O'Reilly, Linux Observability with BPF](https://www.oreilly.com/library/view/linux-observability-with/9781492050193/)
+* [Gregg B., Dec 2019, Addison-Wesley, BPF Performance Tools](https://www.oreilly.com/library/view/bpf-performance-tools/9780136588870/)
 * [Gregg B., Nov 2020, Addison-Wesley, Systems Performance: Enterprise and the Cloud](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
 * [Degioanni L., Grasso L., Aug 2022, O'Reilly, Practical Cloud Native Security with Falco](https://www.oreilly.com/library/view/practical-cloud-native/9781098118563/)
 * [Salazar J., Reka Ivanko N., Apr 2022, O'Reilly, Security Observability with eBPF](https://www.oreilly.com/library/view/security-observability-with/9781492096719/)
-* [Rice L., Apr 2022, O'Reilly, What is eBPF?](https://www.oreilly.com/library/view/what-is-ebpf/9781492097266/)
 
 ## Compilers
 
@@ -109,7 +110,6 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [rust-bpf/rust-bcc](https://github.com/rust-bpf/rust-bcc)
 * [Oct 2021, eCHO episode 25: eBPF, Rust and Aya](https://www.youtube.com/watch?v=TQ0ou-eFLAk)
 * [Monnet Q., Feb 2020, Tools and mechanisms to debug BPF programs](https://archive.fosdem.org/2020/schedule/event/debugging_bpf/)
-* [Udi Rot, Jan 2023, Navigate your way to production bliss with Caretta](https://www.groundcover.com/blog/caretta/)
 * [Rogers P., Aug 2023, BPFAgent: eBPF for Monitoring at DoorDash](https://doordash.engineering/2023/08/15/bpfagent-ebpf-for-monitoring-at-doordash/)
 * https://github.com/iovisor/bcc
 * https://github.com/iovisor/bpftrace
@@ -117,18 +117,20 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Projects
 
+* [Grafana Beyla - Open source zero-code automatic instrumentation with eBPF and OpenTelemetry](https://github.com/grafana/beyla/)
+* [Grafana Pyroscope - Continuous profiling platform designed to surface performance insights from your applications](https://github.com/grafana/pyroscope)
 * [Gerring S., Jul 2024, eBPF Network Vershitifier, Scott's Ramblings](https://blog.scottgerring.com/ebpf-network-vershitifier/)
-* [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler)
+* [OpenTelemetry eBPF Profiler - Cross-language profiler for Linux via eBPF](https://github.com/open-telemetry/opentelemetry-ebpf-profiler)
 * [coroot/coroot](https://github.com/coroot/coroot)
-* [microsoft/retina](https://github.com/microsoft/retina)
+* [Microsoft Retina - Kubernetes network observability platform](https://github.com/microsoft/retina)
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor/)
 * [kubescape/kubescape](https://github.com/kubescape/kubescape/)
 * [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark)
 * [kubeshark/tracer](https://github.com/kubeshark/tracer)
 * [facebookincubator/dns](https://github.com/facebookincubator/dns/)
-* [groundcover-com/caretta](https://github.com/groundcover-com/caretta/)
+* [Groundcover Caretta - Instant K8s service dependency map, right to your Grafana](https://github.com/groundcover-com/caretta/)
+  * [Rot U., Jan 2023, Navigate your way to production bliss with Caretta, groundcover Blog](https://www.groundcover.com/blog/caretta/)
 * [deepflowio/deepflow](https://github.com/deepflowio/deepflow/)
-* [grafana/beyla](https://github.com/grafana/beyla/)
 * [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget/)
 * [slimtoolkit/slim](https://github.com/slimtoolkit/slim/)
 * [parca-dev/parca](https://github.com/parca-dev/parca)
