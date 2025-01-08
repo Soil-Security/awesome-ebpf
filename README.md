@@ -123,6 +123,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Grafana Pyroscope - Continuous profiling platform designed to surface performance insights from your applications](https://github.com/grafana/pyroscope)
 * [Gerring S., Jul 2024, eBPF Network Vershitifier, Scott's Ramblings](https://blog.scottgerring.com/ebpf-network-vershitifier/)
 * [OpenTelemetry eBPF Profiler - Cross-language profiler for Linux via eBPF](https://github.com/open-telemetry/opentelemetry-ebpf-profiler)
+  * [:outbox_tray: Unboxing OpenTelemetry eBPF Profiler](unboxing/opentelemetry-ebpf-profiler.md)
 * [coroot/coroot](https://github.com/coroot/coroot)
 * [Microsoft Retina - Kubernetes network observability platform](https://github.com/microsoft/retina)
 * [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor/)
