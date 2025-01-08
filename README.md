@@ -44,7 +44,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Corbet J., Jul 2014, Extending extended BPF, LWN.net](https://lwn.net/Articles/603983/)
 * [Corbet J., Sept 2014, The BPF system call API, version 14, LWN.net](https://lwn.net/Articles/612878/)
 * [Goswami S., Apr 2005, An introduction to KProbes, LWN.net](https://lwn.net/Articles/132196/)
-* [Nurkholish Halim, Sept 2022, Medium, A Deep Dive into eBPF: Writing an Efficient DNS Monitoring](https://medium.com/@nurkholish.halim/a-deep-dive-into-ebpf-writing-an-efficient-dns-monitoring-2c9dea92abdf)
+* [Halim N., Sept 2022, Medium, A Deep Dive into eBPF: Writing an Efficient DNS Monitoring](https://medium.com/@nurkholish.halim/a-deep-dive-into-ebpf-writing-an-efficient-dns-monitoring-2c9dea92abdf)
 * [Ratiu A., Apr 2019, Collabora, An eBPF overview, part 1: Introduction](https://www.collabora.com/news-and-blog/blog/2019/04/05/an-ebpf-overview-part-1-introduction/)
 * [Ratiu A., Apr 2019, Collabora, An eBPF overview, part 2: Machine & bytecode](https://www.collabora.com/news-and-blog/blog/2019/04/15/an-ebpf-overview-part-2-machine-and-bytecode/)
 * [Securing Linux with a Faster and Scalable IPtables](https://ccronline.sigcomm.org/wp-content/uploads/2019/07/acmdl19-304.pdf)
@@ -117,6 +117,8 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Projects
 
+* [Datadog Agent - Collects events and metrics from your hosts and sends them to Datadog.](https://github.com/DataDog/datadog-agent/)
+  * [Datadog Docs - Agent](https://docs.datadoghq.com/agent/?tab=Linux)
 * [Grafana Beyla - Open source zero-code automatic instrumentation with eBPF and OpenTelemetry](https://github.com/grafana/beyla/)
 * [Grafana Pyroscope - Continuous profiling platform designed to surface performance insights from your applications](https://github.com/grafana/pyroscope)
 * [Gerring S., Jul 2024, eBPF Network Vershitifier, Scott's Ramblings](https://blog.scottgerring.com/ebpf-network-vershitifier/)
@@ -134,10 +136,13 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget/)
 * [slimtoolkit/slim](https://github.com/slimtoolkit/slim/)
 * [parca-dev/parca](https://github.com/parca-dev/parca)
+* [Tracee - Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)
 * [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb/)
 * [oracle/bpftune](https://github.com/oracle/bpftune/)
 * [oracle-samples/bysyscall](https://github.com/oracle-samples/bysyscall)
-* [cilium/tetragon](https://github.com/cilium/tetragon/)
+* [Cilium Tetragon - eBPF-based Security Observability and Runtime Enforcement](https://github.com/cilium/tetragon/)
+  * [Tetragon Docs](https://tetragon.io/)
+* [Cilium eBPF - A pure-Go library to read, modify, load and attach eBPF programs](https://github.com/cilium/ebpf)
 * [ddosify/alaz](https://github.com/ddosify/alaz)
 * [keisku/gmon](https://github.com/keisku/gmon)
 * [amiremohamadi/bpfsnake](https://github.com/amiremohamadi/bpfsnake)
@@ -170,21 +175,6 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 ## Windows
 
 * [Use eBPF-based sensor for Microsoft Defender for Endpoint on Linux, Microsoft Defender Documentation](https://learn.microsoft.com/en-us/defender-endpoint/linux-support-ebpf)
-
-## Companies
-
-The list of companies that claim publicly to use eBPF technology in their products.
-
-| Name                                        | Description                                                                                                          |
-| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| [Spyderbat](https://www.spyderbat.com/)     |                                                                                                                      |
-| [Groundcover](https://www.groundcover.com/) | Observability, for the Cloud. Monitor everything you run in K8s without compromising on cost, granularity, or scale. |
-| [Kong](https://konghq.com/)                 | [Kong](https://github.com/Kong/kong/)                                                                                |
-| [Grafana](https://grafana.com/)             | [Beyla](https://github.com/grafana/beyla/)                                                                           |
-| [DataDog](https://www.datadoghq.com/)       | [DataDog Agent](https://github.com/DataDog/datadog-agent/)                                                           |
-| [Isovalent](https://isovalent.com/)         | [Tetragon](https://github.com/cilium/tetragon/), [cilium/ebpf](https://github.com/cilium/ebpf)                       |
-| [Cycode](https://cycode.com/)               | [CI/MON](https://cycode.com/cimon-build-hardening/)                                                                  |
-| [Aqua Security](https://www.aquasec.com/)   | [Tracee](https://github.com/aquasecurity/tracee)                                                                     |
 
 ## People
 
