@@ -1,8 +1,9 @@
 # Unboxing OpenTelemetry eBPF Profiler
 
+https://github.com/open-telemetry/opentelemetry-ebpf-profiler
+
 ```
-git clone https://github.com/open-telemetry/opentelemetry-ebpf-profiler.git \
-  .unboxing/opentelemetry-ebpf-profiler
+git clone https://github.com/open-telemetry/opentelemetry-ebpf-profiler.git .unboxing/opentelemetry-ebpf-profiler
 cd .unboxing/opentelemetry-ebpf-profiler
 ```
 
