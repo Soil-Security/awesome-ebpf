@@ -139,7 +139,6 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [deepflowio/deepflow](https://github.com/deepflowio/deepflow/)
 * [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget/)
 * [slimtoolkit/slim](https://github.com/slimtoolkit/slim/)
-* [parca-dev/parca](https://github.com/parca-dev/parca)
 * [Tracee - Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)
 * [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb/)
 * [oracle/bpftune](https://github.com/oracle/bpftune/)
@@ -153,7 +152,12 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [alegrey91/harpoon](https://github.com/alegrey91/harpoon)
 * [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace)
 * [Anuj Srivastava, Oct 2022, Skyfall: eBPF agent for infrastructure observability](https://engineering.linkedin.com/blog/2022/skyfall--ebpf-agent-for-infrastructure-observability)
-* [Sumera Priyadarsini, Jul 2022, Polar Signals Blog, Introduction to Parca - Part 1](https://www.polarsignals.com/blog/posts/2022/07/12/introducing-parca-sequel/)
+* [Parca eBPF Agent](https://github.com/parca-dev/parca-agent)
+  * [Parca Server](https://github.com/parca-dev/parca)
+  * [Honduvilla Coto J., Aug 2022, System-wide profiling in Parca Agent, Polar Signals Blog](https://www.polarsignals.com/blog/posts/2022/08/24/system-wide-profiling)
+  * [Honduvilla Coto J., Nov 2022, DWARF-based Stack Walking Using eBPF, Polar Signals Blog](https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers)
+  * [Priyadarsini S., Jul 2022, Introduction to Parca - Part 1, Polar Signals Blog](https://www.polarsignals.com/blog/posts/2022/07/12/introducing-parca-sequel/)
+  * [Priyadarsini S., Jan 2023, Introduction to Parca - Part 2, Polar Signals Blog](https://www.polarsignals.com/blog/posts/2023/01/19/introduction-to-parca-agent)
 * [citronneur/pamspy](https://github.com/citronneur/pamspy)
 
 ## Kubernetes
