@@ -167,6 +167,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Security
 
+* [Ilgayev A., Feb 2025, How We Optimized CI/MON eBPF Sensor to Handle Thousands of Events per Second, Cycode Blog](https://cycode.com/blog/how-we-optimized-ci-mon-ebpf-sensor-to-handle-thousands-of-events-per-second)
 * [Dinaburg A., Sept 2023, Pitfalls of relying on eBPF for security monitoring (and some solutions), Trail of Bits Blog](https://blog.trailofbits.com/2023/09/25/pitfalls-of-relying-on-ebpf-for-security-monitoring-and-some-solutions/)
 * [Jun 2022, Bypassing eBPF-based Security Enforcement Tools, Form3 Blog](https://www.form3.tech/blog/engineering/bypassing-ebpf-tools)
 * [Leonardo Di Donato, Elastic & KP Singh, Google, Oct 2021, LSM BPF Change Everything](https://www.youtube.com/watch?v=l8jZ-8uLdVU)
