@@ -226,6 +226,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Uncategorized
 
+* [Bolin M. Sept 2018, How I ended up writing opensnoop in pure C using eBPF](https://bolinfest.github.io/opensnoop-native/)
 * [Jun 2024, Unleashing the power of frame pointers pt.1 - The execution environment, Maxgio's blog](https://blog.maxgio.me/posts/unleashing-power-frame-pointers-execution-environment/)
 * [Aug 2024, Unleashing the power of frame pointers for profiling pt.2 - Writing a basic profiler](https://blog.maxgio.me/posts/unleashing-power-frame-pointers-writing-simple-continuous-profiler/)
 * [Rice L., Apr 2024, Unleashing the Kernel with eBPF, QCon London](https://www.infoq.com/presentations/ebpf-kernel/)
