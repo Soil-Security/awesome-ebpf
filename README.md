@@ -226,6 +226,8 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Uncategorized
 
+* [Jun 2024, Unleashing the power of frame pointers pt.1 - The execution environment, Maxgio's blog](https://blog.maxgio.me/posts/unleashing-power-frame-pointers-execution-environment/)
+* [Aug 2024, Unleashing the power of frame pointers for profiling pt.2 - Writing a basic profiler](https://blog.maxgio.me/posts/unleashing-power-frame-pointers-writing-simple-continuous-profiler/)
 * [Rice L., Apr 2024, Unleashing the Kernel with eBPF, QCon London](https://www.infoq.com/presentations/ebpf-kernel/)
 * [Graf T., Oct 2016, Docker Distributed System Summit, Cilium - BPF & XDP for containers](https://www.youtube.com/watch?v=TnJF7ht3ZYc)
 * [Graf T., Apr 2017, Cilium: Network and Application Security with BPF and XDP](https://www.youtube.com/watch?v=ilKlmTDdFgk)
