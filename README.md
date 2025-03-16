@@ -153,6 +153,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace)
 * [Anuj Srivastava, Oct 2022, Skyfall: eBPF agent for infrastructure observability](https://engineering.linkedin.com/blog/2022/skyfall--ebpf-agent-for-infrastructure-observability)
 * [Parca eBPF Agent](https://github.com/parca-dev/parca-agent)
+  * [Parca Agent Design](https://www.parca.dev/docs/parca-agent-design/)
   * [Parca Server](https://github.com/parca-dev/parca)
   * [Honduvilla Coto J., Aug 2022, System-wide profiling in Parca Agent, Polar Signals Blog](https://www.polarsignals.com/blog/posts/2022/08/24/system-wide-profiling)
   * [Honduvilla Coto J., Nov 2022, DWARF-based Stack Walking Using eBPF, Polar Signals Blog](https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers)
