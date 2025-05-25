@@ -30,6 +30,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Short C., Aug 2022, Intro to eBPF, chrisshort.net](https://chrisshort.net/intro-to-ebpf/)
 * [Mulligan B., Borkmann D., Apr 2023, The Silent Platform Revolution: How eBPF Is Fundamentally Transforming Cloud-Native Platforms, InfoQ](https://www.infoq.com/articles/ebpf-cloud-native-platforms/)
 * [Podobnik T. J., Sep 2024, Loops and Iterators in eBPF, eBPFChirp](https://ebpfchirp.substack.com/p/loops-and-iterators-in-ebpf)
+* [Podobnik T. J., Dec 2024, eBPF Stateful Programs and State Synchronization Problem, eBPFChirp](https://ebpfchirp.substack.com/p/ebpf-stateful-programs-and-state)
 * [Isovalent eBPF Docs](https://docs.ebpf.io/)
 
 ## Advanced
