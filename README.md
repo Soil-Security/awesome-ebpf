@@ -31,6 +31,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Mulligan B., Borkmann D., Apr 2023, The Silent Platform Revolution: How eBPF Is Fundamentally Transforming Cloud-Native Platforms, InfoQ](https://www.infoq.com/articles/ebpf-cloud-native-platforms/)
 * [Podobnik T. J., Sep 2024, Loops and Iterators in eBPF, eBPFChirp](https://ebpfchirp.substack.com/p/loops-and-iterators-in-ebpf)
 * [Podobnik T. J., Dec 2024, eBPF Stateful Programs and State Synchronization Problem, eBPFChirp](https://ebpfchirp.substack.com/p/ebpf-stateful-programs-and-state)
+* [Podobnik T. J., Jul 2025, Testing eBPF Program Compatibility Across Kernels with LVM and GitHub Actions, eBPFChirp](https://ebpfchirp.substack.com/p/testing-ebpf-program-compatibility)
 * [Isovalent eBPF Docs](https://docs.ebpf.io/)
 
 ## Advanced
