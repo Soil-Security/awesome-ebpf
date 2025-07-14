@@ -32,6 +32,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 * [Podobnik T. J., Sep 2024, Loops and Iterators in eBPF, eBPFChirp](https://ebpfchirp.substack.com/p/loops-and-iterators-in-ebpf)
 * [Podobnik T. J., Dec 2024, eBPF Stateful Programs and State Synchronization Problem, eBPFChirp](https://ebpfchirp.substack.com/p/ebpf-stateful-programs-and-state)
 * [Podobnik T. J., Jul 2025, Testing eBPF Program Compatibility Across Kernels with LVM and GitHub Actions, eBPFChirp](https://ebpfchirp.substack.com/p/testing-ebpf-program-compatibility)
+* [Podobnik T. J., Dubey S., Jun 2025, Building a Real-Time Process Monitor with eBPF and Go](https://ebpfchirp.substack.com/p/building-a-real-time-process-monitor)
 * [Isovalent eBPF Docs](https://docs.ebpf.io/)
 
 ## Advanced
