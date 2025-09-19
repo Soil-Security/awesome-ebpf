@@ -105,6 +105,7 @@ A very opinionated set of awesome resources that I read or bumped into while ler
 
 ## Tools and Frameworks
 
+* [Nakryiko A., Feb 2020, BCC to libbpf conversion guide, Andrii Nakryiko's Blog](https://nakryiko.com/posts/bcc-to-libbpf-howto-guide/)
 * [Monnet Q., Sept 2021, Features of bpftool: the thread of tips and examples to work with eBPF objects, Whirl Offload](https://qmonnet.github.io/whirl-offload/2021/09/23/bpftool-features-thread/)
 * [Kerrisk M., Feb 2020, Linux Security and Isolation APIs Seccomp](https://man7.org/training/download/secisol_seccomp_slides.pdf)
 * [edgebitio/edgebit-agent](https://github.com/edgebitio/edgebit-agent)
